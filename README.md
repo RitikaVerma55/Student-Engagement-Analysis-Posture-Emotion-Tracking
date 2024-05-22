@@ -1,0 +1,2 @@
+# Student-Engagement-Analysis-Posture-Emotion-Tracking
+Designed and trained a student engagement assessment system using deep learning and a hybrid CNN architecture of ConvLSTM2d and Conv2d on the assembled video dataset. Integrated the solution with OpenCV (cv2) for media pipeline management, utilized scikit-learn libraries. Integrated skeletal tracking algorithms to generate posture-based insights.
